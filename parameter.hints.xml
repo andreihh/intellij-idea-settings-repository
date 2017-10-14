@@ -1,0 +1,18 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java" />
+      <blacklist language="Groovy" />
+      <blacklist language="Kotlin">
+        <added pattern="(*)" />
+        <added pattern="kotlin.require*" />
+        <added pattern="kotlin.check*" />
+        <added pattern="kotlin.comparisons.maxOf" />
+        <added pattern="kotlin.comparisons.minOf" />
+        <added pattern="*verify*" />
+        <added pattern="*require*" />
+        <added pattern="*check*" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>

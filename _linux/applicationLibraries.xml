@@ -1,0 +1,97 @@
+<application>
+  <component name="libraryTable">
+    <library name="Python 3.5.2 virtualenv at ~/Programs/sdk/python3 interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Programs/sdk/python3/lib/python3.5" />
+        <root url="file://$USER_HOME$/Programs/sdk/python3/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/Programs/sdk/python3/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/lib/python3.5" />
+        <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/Programs/sdk/python3/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/82121090" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Programs/sdk/python3/lib/python3.5" />
+        <root url="file://$USER_HOME$/Programs/sdk/python3/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/Programs/sdk/python3/lib/python3.5/lib-dynload" />
+        <root url="file:///usr/lib/python3.5" />
+        <root url="file:///usr/lib/python3.5/plat-x86_64-linux-gnu" />
+        <root url="file://$USER_HOME$/Programs/sdk/python3/lib/python3.5/site-packages" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/82121090" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="Python 3.6.1 (~/Programs/Miniconda/envs/ipy/bin/python3) interpreter library">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Programs/Miniconda/envs/ipy/lib/python3.6" />
+        <root url="file://$USER_HOME$/Programs/Miniconda/envs/ipy/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/Programs/Miniconda/envs/ipy/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/Programs/Miniconda/envs/ipy/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/-643944383" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/Programs/Miniconda/envs/ipy/lib/python3.6" />
+        <root url="file://$USER_HOME$/Programs/Miniconda/envs/ipy/lib/python3.6/lib-dynload" />
+        <root url="file://$USER_HOME$/Programs/Miniconda/envs/ipy/lib/python3.6/site-packages" />
+        <root url="jar://$USER_HOME$/Programs/Miniconda/envs/ipy/lib/python3.6/site-packages/setuptools-27.2.0-py3.6.egg!/" />
+        <root url="file://$USER_HOME$/.IdeaIC2017.1/system/python_stubs/-643944383" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/python-skeletons" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.6" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.5" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.4" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3.3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/stdlib/2and3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/3" />
+        <root url="file://$APPLICATION_PLUGINS_DIR$/python-ce/helpers/typeshed/third_party/2and3" />
+      </SOURCES>
+    </library>
+    <library name="scala-sdk-2.12.1" type="Scala">
+      <properties>
+        <option name="languageLevel" value="Scala_2_12" />
+        <compiler-classpath>
+          <root url="file://$USER_HOME$/Programs/sdk/scala-2.12.1/lib/scala-reflect.jar" />
+          <root url="file://$USER_HOME$/Programs/sdk/scala-2.12.1/lib/scala-library.jar" />
+          <root url="file://$USER_HOME$/Programs/sdk/scala-2.12.1/lib/scala-compiler.jar" />
+        </compiler-classpath>
+      </properties>
+      <CLASSES>
+        <root url="jar://$USER_HOME$/Programs/sdk/scala-2.12.1/lib/scala-reflect.jar!/" />
+        <root url="jar://$USER_HOME$/Programs/sdk/scala-2.12.1/lib/scala-parser-combinators_2.12-1.0.4.jar!/" />
+        <root url="jar://$USER_HOME$/Programs/sdk/scala-2.12.1/lib/scala-library.jar!/" />
+        <root url="jar://$USER_HOME$/Programs/sdk/scala-2.12.1/lib/scala-swing_2.12-2.0.0-M2.jar!/" />
+        <root url="jar://$USER_HOME$/Programs/sdk/scala-2.12.1/lib/scala-xml_2.12-1.0.6.jar!/" />
+      </CLASSES>
+      <JAVADOC>
+        <root url="http://www.scala-lang.org/api/2.12.1/" />
+      </JAVADOC>
+      <SOURCES />
+    </library>
+  </component>
+</application>
